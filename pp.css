@@ -1,0 +1,17 @@
+
+ .dd{ 
+
+        text-align: center;
+       
+       
+    }
+
+    p{
+        text-align: justify;
+        font-size: x-large;
+        padding:5px 100px;
+    }
+    dl{
+        font-size: x-large;
+        padding:5px 100px;
+    }
